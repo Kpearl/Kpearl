@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+https://www.notion.so/kpearl/Kang-JinJu-cafedfc46f154de6b1e365f61e246f0a?pvs=4
 <!--
 **Kpearl/Kpearl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
