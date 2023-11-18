@@ -1,6 +1,8 @@
-### Hi there 👋 I'm backend engineer. 🚀
+### Hi there 👋
+### I'm backend engineer. 🚀
 
-#### [Kpearl Resume](https://www.notion.so/kpearl/Kang-JinJu-cafedfc46f154de6b1e365f61e246f0a?pvs=4)
+
+#### [Free to explore my professional background by clicking on my resume link](https://www.notion.so/kpearl/Kang-JinJu-cafedfc46f154de6b1e365f61e246f0a?pvs=4)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kpearl&layout=compact&theme=dracula)
