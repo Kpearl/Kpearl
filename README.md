@@ -2,7 +2,7 @@
 
 https://www.notion.so/kpearl/Kang-JinJu-cafedfc46f154de6b1e365f61e246f0a?pvs=4
 
-[![Kpearl's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kpearl)](https://github.com/Kpearl/github-readme-stats)
+[![Kpearl's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kpearl&hide=stars,contribs&count_private=true)](https://github.com/Kpearl/github-readme-stats)
 <!--
 **Kpearl/Kpearl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
