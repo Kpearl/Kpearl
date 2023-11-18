@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-https://www.notion.so/kpearl/Kang-JinJu-cafedfc46f154de6b1e365f61e246f0a?pvs=4
+#### [Kpearl Resume](https://www.notion.so/kpearl/Kang-JinJu-cafedfc46f154de6b1e365f61e246f0a?pvs=4)
+
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kpearl&layout=compact&theme=dracula)
 
